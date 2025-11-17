@@ -7,7 +7,6 @@ AI and Data Science enthusiast with strong interest in Machine Learning, Deep Le
 ## About Me
 
 I focus on designing and implementing AI-driven systems that combine data, automation, and interactive technologies. My work spans across computer vision, predictive modeling, immersive environments, cloud-based AI applications, and educational technology.
-
 I enjoy working on real-time applications, exploring new tools, and constantly upgrading my technical knowledge through hands-on projects, research, and technical internships.
 
 ---
