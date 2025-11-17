@@ -41,6 +41,14 @@ A secure attendance system leveraging face recognition and automated authenticat
 
 ---
 
+### Sign Language Recognition App
+
+A real-time system that interprets sign language gestures and converts them into readable text using deep learning and computer vision techniques.  
+Designed to support communication for individuals with hearing or speech impairments.  
+Tech Stack: CNN Models, MediaPipe, OpenCV, Python, TensorFlow
+
+---
+
 ## Technical Skills
 
 **Programming:**  
