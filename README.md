@@ -58,5 +58,7 @@ A secure attendance system leveraging face recognition and automated authenticat
 ## Contact
 
 **LinkedIn:** [https://www.linkedin.com/in/rosheni-ramesh-9b8708288](https://www.linkedin.com/in/rosheni-ramesh-9b8708288)
+
 **Email:** [rosheniramesh@gmail.com](mailto:rosheniramesh@gmail.com)
+
 **GitHub:** [https://github.com/RosheniSR](https://github.com/RosheniSR)
