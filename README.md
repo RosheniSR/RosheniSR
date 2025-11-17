@@ -43,21 +43,59 @@ A secure attendance system leveraging face recognition and automated authenticat
 
 ## Technical Skills
 
-**Programming:** Python, C, C++, Java, 
-**Machine Learning & AI:** Classification, CNNs, Deep Learning, Model Training & Evaluation
-**Computer Vision:** OpenCV, MediaPipe, Image Processing, Real-time Detection
-**Web Development:** Flask, Django, HTML, CSS, JavaScript
-**AR/VR Development:** Unity Engine, 360° environment design
-**Cloud Platforms:** AWS, Google Cloud, IBM Watson, Oracle GenAI
-**Tools & Libraries:** NumPy, Pandas, Matplotlib, TensorFlow, Keras
+**Programming:**  
+Python  
+C  
+C++  
+Java  
+C#
+
+**Machine Learning & AI:**  
+Classification  
+CNNs  
+Deep Learning  
+Model Training & Evaluation
+
+**Computer Vision:**  
+OpenCV  
+MediaPipe  
+Image Processing  
+Real-time Detection
+
+**Web Development:**  
+Flask  
+Django  
+HTML  
+CSS  
+JavaScript
+
+**AR/VR Development:**  
+Unity Engine  
+360° Environment Design
+
+**Cloud Platforms:**  
+AWS  
+Google Cloud  
+IBM Watson  
+Oracle GenAI
+
+**Tools & Libraries:**  
+NumPy  
+Pandas  
+Matplotlib  
+TensorFlow  
+Keras
 
 ---
 
-
 ## Contact
 
-**LinkedIn:** [https://www.linkedin.com/in/rosheni-ramesh-9b8708288](https://www.linkedin.com/in/rosheni-ramesh-9b8708288)
+**LinkedIn:**  
+https://www.linkedin.com/in/rosheni-ramesh-9b8708288
 
-**Email:** [rosheniramesh@gmail.com](mailto:rosheniramesh@gmail.com)
+**Email:**  
+rosheniramesh@gmail.com
 
-**GitHub:** [https://github.com/RosheniSR](https://github.com/RosheniSR)
+**GitHub:**  
+https://github.com/RosheniSR
+
