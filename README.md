@@ -41,7 +41,7 @@ A secure attendance system leveraging face recognition and automated authenticat
 
 ---
 
-### Sign Language Recognition App
+### 5. Sign Language Recognition App
 
 A real-time system that interprets sign language gestures and converts them into readable text using deep learning and computer vision techniques.  
 Designed to support communication for individuals with hearing or speech impairments.  
@@ -56,7 +56,6 @@ Python
 C  
 C++  
 Java  
-C#
 
 **Machine Learning & AI:**  
 Classification  
@@ -71,11 +70,9 @@ Image Processing
 Real-time Detection
 
 **Web Development:**  
-Flask  
-Django  
+Flask   
 HTML  
 CSS  
-JavaScript
 
 **AR/VR Development:**  
 Unity Engine  
